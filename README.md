@@ -1,5 +1,5 @@
 # Online-hotel-reservation-system-Object-Oriented-Design-and-Programming
-The project has been done using java programming language. There were three parts of the assignment. The final part is the completed form of the project
+The project has been done using java programming language. There are three parts of the assignment. The final part is the completed form of the project.
 The Online hotel reservation project follows object-oriented design principles. This project is implemented using Java.
 In assignment-1 I have implemented the principles of remote method invocations using the Java-RMI model of distributed-object computing that supports multiple clients and server. Also, the system architecture needs to follow model-view-controller pattern. The system that implemented supports only login method.
 In assignment-2 implemented Front-Controller Pattern and implemented the login functionality for administrator and customer by ensuring user authentication. According to the authentication the system provides different views for both types of the user using Authorization pattern for the online Hotel reservation Project. These two patterns were implemented on top of the proposed MVC system architecture provided in Assignment 1.
